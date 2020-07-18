@@ -12,9 +12,9 @@ Machine Learning is a subset of artificial intelligence, which focuses on using 
 <h5>7.Training</h5>
 <h5>8.Testing</h5> 
  
-<h5> This assignments was done during online internship with DLithe(www.dlithe.com).</h5>
+<h5> This assignment was done during online internship with DLithe(www.dlithe.com).</h5>
 
-<h2>1.Biomechanical features of orthopedic patients<h2>
+<h2>Biomechanical features of orthopedic patients<h2>
  <h4>Data collection</h4>
   <h6> Dataset was collected from kaggle.com.Each patient is represented in the data set by six biomechanical attributes derived from the shape and orientation of the pelvis and         lumbar   spine (each one is a column): pelvic incidence,pelvic tilt,lumbar lordosis angle,sacral slope,pelvic radius,grade of spondylolisthesis.</h6>
 
